@@ -1,0 +1,2 @@
+# ozidoz
+Wordpress theme
